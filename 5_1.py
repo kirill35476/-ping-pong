@@ -167,7 +167,3 @@ while running:
     clock.tick(FPS)
 
 pygame.quit()
-
-#python.exe 5_1.py
-#python.exe 5_1.py  --human
-#добавить звуки при отскоке от рокетки скорость +и текст очки макс скорость 30 и 
